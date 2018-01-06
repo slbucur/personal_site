@@ -1,3 +1,3 @@
 # Personal website
 
-Available at slbucur.me
+Available at https://slbucur.me
