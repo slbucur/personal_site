@@ -1,1 +1,3 @@
-# personal_site
+# Personal website
+
+Available at slbucur.me
